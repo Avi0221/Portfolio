@@ -208,13 +208,13 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
-  flex: 1 1 20rem;
+  flex: 1 1 30rem;
   z-index: 1;
 }
 .home .image img {
-  width: 70%;
-  margin-left: 6rem;
-  border-radius: 50%;
+  width: 60%;
+  margin-left: 1rem;
+  border-radius: 90%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
