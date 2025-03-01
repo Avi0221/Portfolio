@@ -71,7 +71,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["frontend development", "web development","Video Editing","Graphic Designing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
